@@ -1,4 +1,4 @@
-package Day2013;
+package Day0213;
 
 public class Trio {
     //    한국중학교에 다니는 학생들은 각자 정수 번호를 갖고 있습니다.

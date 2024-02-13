@@ -1,4 +1,4 @@
-package Day2013;
+package Day0213;
 
 public class Substring {
     //    숫자로 이루어진 문자열 t와 p가 주어질 때, t에서 p와 길이가 같은 부분문자열 중에서,
